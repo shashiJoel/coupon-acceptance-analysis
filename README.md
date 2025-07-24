@@ -41,6 +41,27 @@ This project analyzes customer behavior patterns to determine the likelihood of 
 - **Timing:** Early morning or late evening
 - **Preferences:** Routine-oriented, planned purchases
 
+### 📈 Key Insights
+
+- Overall acceptance rate: 56.8%
+- Best performing coupon type: Carry out & Take away (73.4%)
+- Best time for coupon delivery: 2PM (66.2%)
+- Best weather condition: Sunny (59.3%)
+- Best passenger type: Friend(s) (67.3%)
+
+#### DEMOGRAPHIC INSIGHTS:
+- Best age group: below21 (63.2%)
+- Gender difference: Male (58%)
+- Best marital status: Single (60.5%)
+- Best education level: Some High School (71.6%)
+- Best income level: $50000 - $62499 (59.5%)
+
+#### BEHAVIORAL INSIGHTS:
+- Best bar frequency: 4~8 (63.6%)
+-  Best coffee house frequency: 1~3 (65.3%)
+- Best restaurant (<$20) frequency: gt8 (60.8%)
+- Best carry away frequency: 1~3 (58.2%)
+
 ### 🎯 **Best Predictive Factors**
 
 1. **Coupon Type**: Carry out & Take away coupons have the highest acceptance rate (73.5%)
@@ -94,27 +115,6 @@ The project includes comprehensive visualizations:
 3. **Behavioral Patterns** - Dining frequency and preferences
 4. **Contextual Factors** - Time, weather, passenger effects
 5. **Customer Segmentation** - High vs low acceptance profiles
-
-## 📈 Key Insights
-
-- Overall acceptance rate: 56.8%
-- Best performing coupon type: Carry out & Take away (73.4%)
-- Best time for coupon delivery: 2PM (66.2%)
-- Best weather condition: Sunny (59.3%)
-- Best passenger type: Friend(s) (67.3%)
-
-#### DEMOGRAPHIC INSIGHTS:
-- Best age group: below21 (63.2%)
-- Gender difference: Male (58%)
-- Best marital status: Single (60.5%)
-- Best education level: Some High School (71.6%)
-- Best income level: $50000 - $62499 (59.5%)
-
-#### BEHAVIORAL INSIGHTS:
-- Best bar frequency: 4~8 (63.6%)
--  Best coffee house frequency: 1~3 (65.3%)
-- Best restaurant (<$20) frequency: gt8 (60.8%)
-- Best carry away frequency: 1~3 (58.2%)
   
 ## 🎯 FINAL ANSWER: Who Will Accept Coupons vs Who Will Not?
 
